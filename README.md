@@ -1,7 +1,3 @@
 # Roll_a_ball_unity
 
-Versions Built:
-- iOS
-- OSX
-
-Build files can be found in the Build folder.
+This was my little spin on the roll a ball unity tutorial. I made a small change in the PlayerController to utilize a phone's accelerometer.
